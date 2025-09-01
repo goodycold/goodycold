@@ -31,11 +31,10 @@ Some of my key certifications and certificates of  completion:
 
 
 
- Capture the Flag (CTF)/ Practice
-practcied and Completed mahines,  challenges on platforms like HackTheBox, TryHackMe, Vuln-bank:  
-- SQLi and XSS exercises  
-- Web exploitation labs  
--Write up and solutions in my portfolio repository
+Write ups 
+
+-Write up and solutions in my Walkthrough repository https://github.com/goodycold/walkthroughs/blob/main/README.md
+
 
 
 My Resume (https://github.com/goodycold/My-Resume)
