@@ -3,6 +3,9 @@
 I'm a cybersecurity professional blending my psychology background with hands on experience in web exploitation, network security, and penetration testing.  
 I enjoy solving real world challenges and sharing my experience.
 
+Altschool Africa
+- Walk with me through my cybersecurity journey in  Altschool Africa https://github.com/goodycold/Altschool-Africa
+
 
  Internships
 - Explore my internship experiences and summaries here:  https://github.com/goodycold/Internships
