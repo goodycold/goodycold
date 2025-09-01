@@ -1,14 +1,14 @@
  Hi, I'm Goodluck 
 
 I'm a cybersecurity professional blending my psychology background with hands on experience in web exploitation, network security, and penetration testing.  
-I enjoy solving real-world challenges and sharing my experience.
+I enjoy solving real world challenges and sharing my experience.
 
 
  Internships
- Explore my internship experiences and summaries here:  https://github.com/goodycold/Internships
+- Explore my internship experiences and summaries here:  https://github.com/goodycold/Internships
 
 Walkthroughs
-Step-by-step guides, lab exercises, and CTF solutions can be found in my Walkthroughs repository:   https://github.com/goodycold/walkthroughs/blob/main/README.md
+- Step by step guides, lab exercises, and CTF solutions can be found in my Walkthroughs repository:   https://github.com/goodycold/walkthroughs/blob/main/README.md
 
 
 
