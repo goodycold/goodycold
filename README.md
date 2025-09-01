@@ -4,6 +4,14 @@ I'm a cybersecurity professional blending my psychology background with hands on
 I enjoy solving real-world challenges and sharing my experience.
 
 
+ Internships
+ Explore my internship experiences and summaries here:  https://github.com/goodycold/Internships
+
+Walkthroughs
+Step-by-step guides, lab exercises, and CTF solutions can be found in my Walkthroughs repository:   https://github.com/goodycold/walkthroughs/blob/main/README.md
+
+
+
 
  Skills
 - Web Exploitation (SQL Injection, XSS)
@@ -13,36 +21,21 @@ I enjoy solving real-world challenges and sharing my experience.
 - Security Tools: Nmap, Wireshark, OpenVAS
 
 
-
- Cybersecurity Portfolio
-Explore my main portfolio repository containing internship summaries, walkthroughs, CTF challenges, and certificates:  
-[Cybersecurity Portfolio](https://github.com/YourUsername/cybersecurity-portfolio)
-
-
-
-Certificates & Achievements
-Some of my key certifications and certificates of  completion:  
+Certifications :  
 - ISC2 Certified in Cybersecrity
 - APIsec Certfied Practitioner  
-- CyberBlack Internship Completion  
 - Certified Network Security Practitioner  
-
 *(Full certificates available in the Cybersecurity Portfolio repository.)*
 
 
+Resume
+- My full resume is available here: (https://github.com/goodycold/My-Resume)
 
-Write ups 
-
--Write up and solutions in my Walkthrough repository https://github.com/goodycold/walkthroughs/blob/main/README.md
-
-
-
-My Resume (https://github.com/goodycold/My-Resume)
 
 
 Contact Me
-- Twitter: goodypetes 
-- Email: petersgoodluck64@gmail.com 
+- Twitter: [@goodypetes](https://twitter.com/goodypetes)  
+- Email:   petersgoodluck64@gmail.com 
 
 
 
