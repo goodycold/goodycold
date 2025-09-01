@@ -1,6 +1,6 @@
  Hi, I'm Goodluck 
 
-I'm a cybersecurity professional blending my psychology background with hands on experience in web exploitation, network security, and penetration testing.  
+I'm a cybersecurity professional Ccombining my psychology background with hands on experience in web exploitation, network security,   penetration testing and Cybersecurity in general.  
 I enjoy solving real world challenges and sharing my experience.
 
 Altschool Africa
