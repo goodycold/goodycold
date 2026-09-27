@@ -1,4 +1,4 @@
-# Goodluck Peters
+# Goodluck O Peters
 
 Hi, I'm Goodluck. Welcome to my Git.
 
